@@ -1,0 +1,26 @@
+{
+  "name": "back-query-extension-minio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stierma1/back-query-extension-minio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stierma1/back-query-extension-minio/issues"
+  },
+  "homepage": "https://github.com/stierma1/back-query-extension-minio#readme",
+  "dependencies": {
+    "minio": "^7.0.1",
+    "node-gzip": "^1.1.2"
+  },
+  "devDependencies": {
+    "back-chain-couch-query": "^1.0.4"
+  }
+}
