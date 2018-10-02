@@ -1,6 +1,6 @@
 {
   "name": "back-query-extension-minio",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "node-gzip": "^1.1.2"
   },
   "devDependencies": {
-    "back-chain-couch-query": "^1.0.4"
+    "back-chain-couch-query": "^1.0.5"
   }
 }
